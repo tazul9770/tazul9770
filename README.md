@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tazul Islam</h1>
 <h3 align="center">
-Django & React Developer | Backend-Focused | Scalable Web Solutions
+Django & React Full Stack Developer| Scalable Web Solutions
 </h3>
 
 <p align="center">
