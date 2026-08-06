@@ -2,14 +2,18 @@
 
 # Hey, I'm Tazul 👋
 
-**Backend-leaning Full Stack Developer** — Django & React
+**Backend / Full Stack Developer (Django & React)**
 
-I like turning messy requirements into clean database schemas and fast, predictable APIs.
-UI is fine. Backend is where I actually have fun.
+Full Stack Developer specializing in Django and React, with experience building scalable REST APIs
+and production-ready web applications. Comfortable across the entire stack — from designing efficient
+PostgreSQL schemas and optimizing query performance to shipping responsive, user-friendly interfaces —
+with a strong focus on backend architecture and writing clean, maintainable code.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-frontend-one-beige.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdtazulislam01/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tazulislam42609770@gmail.com)
+**[Portfolio](https://portfolio-frontend-one-beige.vercel.app/)** &nbsp;|&nbsp;
+**[GitHub](https://github.com/tazul9770)** &nbsp;|&nbsp;
+**[LinkedIn](https://www.linkedin.com/in/mdtazulislam01/)** &nbsp;|&nbsp;
+**[Codeforces](https://codeforces.com/profile/Tazul_Islam)** &nbsp;|&nbsp;
+**[LeetCode](https://leetcode.com/u/Tazul_islam_4526/)**
 
 <img src="https://komarev.com/ghpvc/?username=tazul9770&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
@@ -38,36 +42,22 @@ UI is fine. Backend is where I actually have fun.
 
 ## Stack I Reach For
 
-<table>
-<tr>
-<td valign="top" width="33%">
+**Backend**  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-**Backend**
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
-
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**Languages & Tools**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</td>
-</tr>
-</table>
+**Languages & Tools**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
 
